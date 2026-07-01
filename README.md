@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Kasra
 
-<!--
-**Kasra-Valizadeh/Kasra-Valizadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Front-End Developer
 
-Here are some ideas to get you started:
+I'm currently learning Front-End Web Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript
+- Git
+- GitHub
+
+## 📚 Currently Learning
+
+- JavaScript
+- Tailwind CSS
+- React
+
+## 🎯 Goals
+
+- Build professional websites
+- Create awesome portfolio projects
+- Become a Front-End Developer
+
+---
+
+⭐ Thanks for visiting my profile!
